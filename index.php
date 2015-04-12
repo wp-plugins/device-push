@@ -3,7 +3,7 @@
 Plugin Name: Device Push
 Description: Device Push is a service that consists of SDKs, API, and a control panel to manage notifications without having to deal with the different platforms, unifying all the code. With Device Push, you will save much time and no need to worry about storing large token, Device Push will do it all for you.
 Author: Device Push
-Version: 0.6
+Version: 0.7
 */
 
 // Create custom plugin settings menu

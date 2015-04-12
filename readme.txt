@@ -2,7 +2,7 @@
 Contributors: Device Push Notifications
 Tags: notification, push, cordova, phonegap, ios, android, windows phone, notification, markegint, cloud
 Requires at least: 3.0.1
-Stable tag: 0.6
+Stable tag: 0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,9 @@ To install the plugin, you just have to follow the following steps:
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 0.6 =
+* Change in text.
 
 = 0.6 =
 * Change in text.
