@@ -2,7 +2,7 @@
 Contributors: Device Push Notifications
 Tags: notification, push, cordova, phonegap, ios, android, windows phone, notification, markegint, cloud
 Requires at least: 3.0.1
-Stable tag: 0.3
+Stable tag: 0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,6 +19,8 @@ Device Push Notification is a service that consists of SDKs, API, and a control 
 5.- Send notifications from the control panel or using our API to devices into a specific area or region.
 6.- Program sending notifications at a specific time, create your own actions timeline.
 
+Enter the website and learn more about the service: www.devicepush.com
+
 == Installation ==
 
 To install the plugin, you just have to follow the following steps:
@@ -27,6 +29,9 @@ To install the plugin, you just have to follow the following steps:
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 0.4 =
+* Change in text.
 
 = 0.3 =
 * Change in text.
