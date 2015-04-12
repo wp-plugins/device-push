@@ -2,13 +2,15 @@
 Contributors: Device Push Notifications
 Tags: notification, push, cordova, phonegap, ios, android, windows phone, notification, markegint, cloud
 Requires at least: 3.0.1
-Stable tag: 0.5
+Stable tag: 0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Send push notification with Cordova/PhoneGap and Wordpress to iOS, Android, Windows Phone 8, Windows 8 and Blackberry 10.
 
 == Description ==
+
+You can link your blog with Device Push service through the WordPress plugin. You can send push notifications to mobile applications when you publish a new post on your blog.
 
 Device Push Notification is a service that consists of SDKs, API, and a control panel to manage notifications without having to deal with the different platforms, unifying all the code. With Device Push Notification, you will save much time and no need to worry about storing large token, Device Push Notification will do it all for you.
 
@@ -34,6 +36,9 @@ To install the plugin, you just have to follow the following steps:
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 0.6 =
+* Change in text.
 
 = 0.5 =
 * Change in text.
